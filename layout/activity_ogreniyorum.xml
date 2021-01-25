@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:background="@color/yeni"
+    tools:context=".ogreniyorum">
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:background="@drawable/resim2" android:textColor="@color/yeni"
+        android:padding="40dp" android:layout_marginBottom="15dp"
+        />
+    <Button
+        android:id="@+id/btn7"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:background="@drawable/indir" android:layout_below="@id/btn6"
+        android:textColor="@color/yeni" android:padding="40dp"
+        android:layout_marginBottom="15dp"
+        />
+    <Button
+        android:id="@+id/btn8"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_below="@id/btn7" android:background="@drawable/resim3"
+        android:textColor="@color/yeni" android:padding="40dp"
+        android:layout_marginBottom="15dp"
+        />
+    <Button
+        android:id="@+id/btn9"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_below="@id/btn8" android:background="@drawable/resim7"
+        android:textColor="@color/yeni" android:padding="40dp"
+        android:layout_marginBottom="15dp"
+        />
+</RelativeLayout>
+
+

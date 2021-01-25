@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hayvanlar"
+    android:background="@color/sarı2">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/but1" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="@drawable/agackakan"
+                android:padding="50dp" android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt1" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:text="SESİNİ DİNLE"
+                android:textStyle="bold" android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but2" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="@drawable/agustos_bocegi"
+                android:padding="50dp" android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt2" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:text="SESİNİ DİNLE"
+                android:textStyle="bold" android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but3" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="@drawable/ari"
+                android:padding="50dp" android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt3" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:text="SESİNİ DİNLE"
+                android:textStyle="bold" android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but4" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="@drawable/aslan"
+                android:padding="50dp" android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt4" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:text="SESİNİ DİNLE"
+                android:textStyle="bold" android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/at"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ceylan"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/fil"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/hindi"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/horoz"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/kanarya"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/kaz"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/kedi"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/kuzu"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/kopek"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ordek"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/but16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/sincap"
+                android:padding="50dp"
+                android:layout_marginBottom="5dp"
+                />
+            <Button
+                android:id="@+id/bt16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SESİNİ DİNLE"
+                android:textStyle="bold"
+                android:textColor="@color/blue2"
+                android:layout_marginBottom="5dp"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Entertainment for Children</string>
+    <string name="yazi1">Öğreniyorum adlı kısıma bastığımızda karşımıza gelen ekranda hangi kısımı öğrenmek istiyorsak o kısmın resminin üzerine tıklamamız yeterli.Sonrasında örneğin sayılar kısımına girdik sayının telafuzunu öğrenmek için sayının üzerine tıkladığımız zaman sayının telafuzunu öğrenmiş oluyoruz.Hayvanlar kısımında ki farklılık ise hayvanın resminin üzerine tıkladığımızda adlarının telafuzunu altındaki butona tıkladığımızda ise hayvanların seslerini dinlemiş oluyorsunuz.</string>
+    <string name="yazi2">Bilgi yarışması kısımına tıkladığımızda direk yarışmaya başlıyorsunuz soruya doğru cevap verdiğiniz anda karşınıza yeni soru geliyor.Aksi takdirde soruya yanlış zaman verdiğiniz zaman otomatik olarak yarışma ekranından çıkıp anasayfaya yönlendiriliyorsunuz.</string>
+    <string name="yazi3">Çiz-eğlen kısımına tıkladığımızda ise karşımıza bir resim çizme ekranı geliyor bu ekrandan kalemimizin kalınlığını ayarlayarak istediğimiz resimleri kalem yardımıyla çiziyoruz.</string>
+    <string name="yazi4">Müzik çal kısımına tıkladığımızda karşımıza bir piyano gelicek bu piyanoyu kullanmak için telefonumuzu yatay konuma getirmeniz gerekmektedir.Ardından piyano tuşlarına basarak istediğiniz melodiyi çalabilirsiniz.</string>
+</resources>

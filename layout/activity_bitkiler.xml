@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bitkiler"
+    android:background="@color/silver">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/btn39" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="@drawable/gul"
+                android:padding="50dp" android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn40" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="@drawable/lale"
+                android:padding="50dp" android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn41" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="@drawable/orkide"
+                android:padding="50dp" android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn42" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="@drawable/ortanca"
+                android:padding="50dp" android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn43" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="@drawable/sutlegen"
+                android:padding="50dp" android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn44"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/papatya"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn45"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/reyhan"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn46"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/acelya"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn47"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/akasya"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn48"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cam"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn49"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cay"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn50"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cilek"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn51"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ceviz"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn52"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/defne"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn53"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/elma"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn54"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menekse"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn55"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/visne"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn56"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/zakkum"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+            <Button
+                android:id="@+id/btn57"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/zambak"
+                android:padding="50dp"
+                android:layout_marginBottom="15dp"
+                />
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
